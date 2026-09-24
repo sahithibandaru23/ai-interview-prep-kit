@@ -1,0 +1,42 @@
+[
+  {
+    "id": "frontend-basic",
+    "jd": "Frontend Developer. Requirements: JavaScript, React, TypeScript, Git. Build responsive web applications and collaborate with the team.",
+    "company_url": "https://example.com",
+    "days": 5,
+    "company": "Example Company",
+    "location": "Remote"
+  },
+  {
+    "id": "backend-basic",
+    "jd": "Backend Developer. Requirements: Node.js, Express, MongoDB, REST API, Git. Build scalable backend services.",
+    "company_url": "https://example.com",
+    "days": 3,
+    "company": "Example Company",
+    "location": "Remote"
+  },
+  {
+    "id": "short-prep",
+    "jd": "Software Engineer. Requirements: Python, SQL, Git.",
+    "company_url": "https://example.com",
+    "days": 1,
+    "company": "Example Company",
+    "location": "Remote"
+  },
+  {
+    "id": "long-prep",
+    "jd": "Full Stack Developer. Requirements: JavaScript, React, Node.js, SQL, MongoDB, Git, REST API.",
+    "company_url": "https://example.com",
+    "days": 60,
+    "company": "Example Company",
+    "location": "Remote"
+  },
+  {
+    "id": "thin-jd",
+    "jd": "Developer. Work with the engineering team and build software.",
+    "company_url": "https://example.com",
+    "days": 2,
+    "company": "Example Company",
+    "location": "Remote"
+  }
+]
