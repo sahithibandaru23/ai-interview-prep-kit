@@ -35,7 +35,7 @@ export default function Dashboard() {
       return;
     }
 
-    fetch("${API_URL}/api/kits", {
+    fetch(`${API_URL}/api/kits`, {
       headers: {
         Authorization: `Bearer ${token}`,
       },

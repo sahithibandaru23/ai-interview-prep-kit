@@ -46,7 +46,7 @@ export default function AssistantPage() {
       }
 
       const response = await fetch(
-        "${API_URL}/api/assistant/chat",
+        `${API_URL}/api/assistant/chat`,
         {
           method: "POST",
           headers: {

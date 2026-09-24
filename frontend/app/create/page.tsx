@@ -43,7 +43,7 @@ export default function CreateKit() {
       }
 
       const response = await fetch(
-        "${API_URL}/api/kits",
+        `${API_URL}/api/kits`,
         {
           method: "POST",
           headers: {
