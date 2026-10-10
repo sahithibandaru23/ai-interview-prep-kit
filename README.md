@@ -8,6 +8,17 @@ An AI-powered full-stack application that transforms a job description and compa
 ### 1. Login
 ![Login](docs/screenshots/01-login.png)
 
+## Demo Login Credentials
+
+Use these credentials to access the local demo, if the test account exists in the configured database.
+
+- **Email:** `test@example.com`
+- **Password:** `TestPassword123!`
+- **Local URL:** http://localhost:3000
+
+> Demo credentials are for testing only. They will work only if the account has been configured in the database.
+
+
 ### 2. Dashboard
 ![Dashboard](docs/screenshots/02-dashboard.png)
 
